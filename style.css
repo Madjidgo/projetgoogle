@@ -13,8 +13,8 @@ section{
 }
 section .input3{
 
-  height: 50px;
-  width: 600px;
+  height: 40px;
+  width: 500px;
 }
 #p1,#p2{
   background-color:#8f8f8f;
@@ -24,4 +24,11 @@ section .input3{
 
 .left ,.right , li{
   display: inline-block;
+}
+footer{
+  background-color: #8f8f8f;
+  margin-top: 23%;
+}
+footer .right{
+  margin-left: 65%;
 }
