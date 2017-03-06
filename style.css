@@ -2,10 +2,10 @@ body{
   margin: 0;
   padding: 0;
 }
-nav li {
+.nav1 li{
  display: inline-block;
 }
-nav{
+.nav1{
   margin-left: 80%;
 }
 section{
@@ -19,5 +19,9 @@ section .input3{
 #p1,#p2{
   background-color:#8f8f8f;
   padding:7px;
+  display: inline-block;
+}
+
+.left ,.right , li{
   display: inline-block;
 }
