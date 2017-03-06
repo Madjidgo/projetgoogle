@@ -11,3 +11,13 @@ nav{
 section{
   text-align: center;
 }
+section .input3{
+
+  height: 50px;
+  width: 600px;
+}
+#p1,#p2{
+  background-color:#8f8f8f;
+  padding:7px;
+  display: inline-block;
+}
