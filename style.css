@@ -7,13 +7,22 @@ body{
 }
 .nav1 a{
   text-decoration: none;
+  color:black;
+}
+.nav1 a:hover{
+  text-decoration: underline;
+}
+.conect{
+  background-color: #4585ed;
+  padding: 0.5em;
 }
 .nav1{
-  margin-left: 80%;
+  margin-left: 83%;
   text-decoration: none;
 }
 section{
   text-align: center;
+  padding-top: 50px;
 }
 section .input3{
 
@@ -21,7 +30,7 @@ section .input3{
   width: 500px;
 }
 #p1,#p2{
-  background-color:#8f8f8f;
+  background-color:#d3d3d3;
   padding:7px;
   display: inline-block;
 }
@@ -30,7 +39,7 @@ section .input3{
   display: inline-block;
 }
 footer{
-  background-color: #8f8f8f;
+  background-color: #d3d3d3;
   margin-top: 23%;
 }
 footer .right{
