@@ -5,3 +5,9 @@ body{
 nav li {
  display: inline-block;
 }
+nav{
+  margin-left: 80%;
+}
+section{
+  text-align: center;
+}
