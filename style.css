@@ -1,51 +1,59 @@
-body{
+body
+{
   margin: 0;
   padding: 0;
 }
-.nav1 li{
+.nav1 li
+{
  display: inline-block;
 }
-.nav1, .nav a{
+.nav1 a,.nav a
+{
   text-decoration: none;
   color:black;
 }
-.nav1 a:hover{
-  text-decoration: underline;
-}
 
-.conect{
+.conect
+{
   background-color: #4585ed;
   padding: 0.5em;
 }
-.nav1{
+.nav1
+{
   margin-left: 83%;
   text-decoration: none;
 }
-section{
+section
+{
   text-align: center;
   padding-top: 50px;
 }
-section .input3{
-
+section .input3
+{
   height: 40px;
   width: 500px;
 }
-.nav p{
+.nav p
+{
   background-color:#d3d3d3;
   padding:7px;
   display: inline-block;
 }
 
-.left ,.right , li{
+.left ,.right , li
+{
   display: inline-block;
 }
-footer{
+footer
+{
   background-color: #d3d3d3;
   margin-top: 20%;
 }
-footer .right{
+footer .right
+{
   margin-left: 65%;
 }
-h2{
+h2
+{
   display: none;
 }
