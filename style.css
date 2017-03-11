@@ -5,13 +5,14 @@ body{
 .nav1 li{
  display: inline-block;
 }
-.nav1 a{
+.nav1, .nav a{
   text-decoration: none;
   color:black;
 }
 .nav1 a:hover{
   text-decoration: underline;
 }
+
 .conect{
   background-color: #4585ed;
   padding: 0.5em;
@@ -29,7 +30,7 @@ section .input3{
   height: 40px;
   width: 500px;
 }
-#p1,#p2{
+.nav p{
   background-color:#d3d3d3;
   padding:7px;
   display: inline-block;
@@ -44,4 +45,7 @@ footer{
 }
 footer .right{
   margin-left: 65%;
+}
+h2{
+  display: none;
 }
